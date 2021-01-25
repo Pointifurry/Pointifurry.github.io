@@ -1,2 +1,2 @@
-# PointifyOK.github.io
+# Pointifurry.github.io
 The website for everything Pointify.
